@@ -53,16 +53,22 @@ Lose sound
 
 🧩 Clean modular project structure
 
-📸 Screenshots
-Main Menu
+🎮 Controls## 📸 Screenshots
 
-Gameplay
+<p align="center">
 
-Win Screen
+<img src="screenshots/menu.png" width="45%">
+<img src="screenshots/gameplay.png" width="45%">
 
-Lose Screen
+</p>
 
-🎮 Controls
+<p align="center">
+
+<img src="screenshots/win.png" width="45%">
+<img src="screenshots/lose.png" width="45%">
+
+</p>
+
 ⌨️ Keyboard
 Key	Action
 A–Z	Guess letter
